@@ -16,7 +16,7 @@ What things you need to install the software.
 
  you need to install it's dependencies. 
 ```
-$ cd laravel-mvc-demo
+$ cd laravel-mvc
 $ composer install
 ```
 
