@@ -12,9 +12,15 @@ What things you need to install the software.
 * Laravel Valet (optional).
 * A webserver like Nginx or Apache.
 
+### Install
+Clone the git repository on your computer
+```
+$ git clone https://github.com/neoighodaro-articles/laravel-mvc-demo.git
+```
 
+You can also download the entire repository as a zip file and unpack in on your computer if you do not have git
 
- you need to install it's dependencies. 
+After cloning the application, you need to install it's dependencies. 
 ```
 $ cd laravel-mvc
 $ composer install
